@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riccardoios
 - 👀 I’m a passionate iOS Developer 
-- 🌱 I’m coding iOS Apps since 2017
+- 🌱 I’m coding iOS Apps since 2019
 - 🧑‍💻 Check out my Portfolio: https://bit.ly/3DMLQuF
 - 💞️ I’m looking to collaborate on any project related on iOS Development
 - 📫 How to reach me: riccardo.rich@me.com
